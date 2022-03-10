@@ -32,6 +32,11 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Mock-Up
 
 
+https://user-images.githubusercontent.com/94097708/157692568-c21d68e1-49fb-40c4-8e23-ed0e1900b012.mp4
+
+
+
+https://drive.google.com/file/d/1pbINnlY-Bs-ZTfeAeiIQQ4YvAttzp2IP/view
 
 https://user-images.githubusercontent.com/94097708/157557744-03f866a1-d412-4553-97af-8476dd00a631.mp4
 
